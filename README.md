@@ -58,9 +58,3 @@ This ensures you learn how LSTM works internally rather than treating it as a bl
 
 Pull requests, issues, and suggestions are welcome.  
 This project is meant for learning — improvements benefit everyone.
-
----
-
-
-
-i want to ad only these
